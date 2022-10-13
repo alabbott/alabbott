@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-My name is Alan! I'm a Technology Consultatnt and general nerd. Learn more about me on my [website](https://alanabbott.me).
+My name is Alan! I'm a Technology Consultant and general nerd. Learn more about me on my [website](https://alanabbott.me).
 
 <!--
 **alabbott/alabbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
