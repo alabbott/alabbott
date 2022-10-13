@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="logo-white.png">
+ <source media="(prefers-color-scheme: light)" srcset="logo-black.png">
+ <img alt="Alan Abbott" src="logo-white.png">
+</picture>
+
 ### Hi there 👋
 
 <!--
